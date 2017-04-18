@@ -93,3 +93,7 @@ Class | Method | HTTP request | Description
  - [IO.Swagger.Model.ListOrder](docs/ListOrder.md)
  - [IO.Swagger.Model.SetResponse](docs/SetResponse.md)
  - [IO.Swagger.Model.WhereItem](docs/WhereItem.md)
+ 
+ ## Authors
+
+* **[Mert Sarac](https://github.com/saracmert)** - *Initial work*
