@@ -93,9 +93,3 @@ Class | Method | HTTP request | Description
  - [IO.Swagger.Model.ListOrder](docs/ListOrder.md)
  - [IO.Swagger.Model.SetResponse](docs/SetResponse.md)
  - [IO.Swagger.Model.WhereItem](docs/WhereItem.md)
-
-
-<a name="documentation-for-authorization"></a>
-## Documentation for Authorization
-
-All endpoints do not require authorization.
